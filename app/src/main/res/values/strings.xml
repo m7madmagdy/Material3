@@ -1,3 +1,41 @@
 <resources>
-    <string name="app_name">web view</string>
+    <string name="app_name">Material3</string>
+    <string name="previous">Previous</string>
+
+    <string name="homeText">
+        Material Design is Google\'s design language, created in 2014.
+    </string>
+
+    <string name="articleText">
+        Material Design is Google\'s design language, created in 2014.
+        It\'s a set of guidelines put together by Google to improve the overall
+        look and feel of Android apps with consistent design practices.
+        Material You, its latest version, is marking a brand new approach to app design.
+        One that can be dynamically personalized to each users tastes.\n\n
+        With Material You, Google ambition is to help all designers
+        create designs that are personal for every style
+        accessible for every need, alive and adaptive for every
+        screen And bring back creativity and excitement for Android apps.
+        In a Fast Company interview, Google VP of design Matias Duarte declared
+        The material metaphor was maybe too good
+        and the paper has come to dominate our interfaces.\n\n
+        They are consistent…but they\'ve gotten a little stale
+        boring, too tied to a modernist same-ism that is spread everywhere."
+        From now on, apps and widgets can be customized based on users
+        wallpaper colour palettes.
+        Whats particularly smart about this approach is that it doesn't
+        require additional efforts from the users
+        given that most of us already customize our wallpaper.\n\n
+        Material You also makes it easier for designers
+        to build responsive and accessible apps
+        offering users more control over the contrast size
+        and spacing settings. Let's take a closer look..\n\n
+        Dynamic Colours
+        Material Design 3 is undeniably a bold update
+        and its most exciting change is dynamic colours. Here's how it works.
+        Material Design 3 has a built-in colour combination feature
+        that extracts colours from users' wallpaper images. \n\n
+    </string>
+    <string name="home">Home</string>
+    <string name="article">Article</string>
 </resources>

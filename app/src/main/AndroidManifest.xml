@@ -16,14 +16,9 @@
         android:theme="@style/Theme.Learn"
         tools:targetApi="31">
         <activity
-            android:name=".ExplicitActivity"
-            android:exported="false" />
-        <activity
-            android:name=".WebActivity"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name=".MaterialActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Learn">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
